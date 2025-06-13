@@ -1,17 +1,17 @@
 {
-  "name": "vercel-python-gis",
+  "name": "vercel-python-gis-runtime",
   "version": "1.0.0",
   "description": "A vercel python runtime with gis libraries",
   "main": "./dist/index.js",
   "license": "MIT",
-  "homepage": "https://github.com/jperelli/vercel-python-gis#readme",
+  "homepage": "https://github.com/shalakhin/vercel-python-gis#readme",
   "files": [
     "dist",
     "vc_init.py"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jperelli/vercel-python-gis.git"
+    "url": "git+https://github.com/shalakhin/vercel-python-gis.git"
   },
   "scripts": {
     "build": "node build.js",
