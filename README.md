@@ -27,7 +27,7 @@ in /vercel.json add this runtime
   "functions": {
     "api/index.py": {
       "runtime": "vercel-python-gis@1.0.0",
-      // "runtime": "git+https://github.com/jperelli/vercel-python-gis.git#main@1.0.0" // for dev only
+      // "runtime": "git+https://github.com/shalakhin/vercel-python-gis.git#main@1.0.0" // for dev only
     }
   }
 }
