@@ -1,6 +1,6 @@
 {
   "name": "vercel-python-gis-runtime",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A vercel python runtime with gis libraries",
   "main": "./dist/index.js",
   "license": "MIT",
